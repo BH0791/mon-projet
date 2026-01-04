@@ -1,0 +1,23 @@
+From 0db69c7d315276e4b106beadb76c5960da84fc9f Mon Sep 17 00:00:00 2001
+From: cfdth <cfdthotformers@gmail.com>
+Date: Sun, 4 Jan 2026 10:26:47 +0100
+Subject: [PATCH] Collaborateur : ajout d'un paragraphe
+
+---
+ book-1/index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/book-1/index.html b/book-1/index.html
+index cdb873f..e45dcdb 100644
+--- a/book-1/index.html
++++ b/book-1/index.html
+@@ -7,5 +7,6 @@
+ </head>
+ <body>
+     <p class="p">Mon texte</p>
++    <p>Ajout collaborateur</p>
+ </body>
+ </html>
+-- 
+2.52.0.windows.1
+
