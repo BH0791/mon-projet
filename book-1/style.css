@@ -1,13 +1,30 @@
 /* Book 1 styles */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #cca0a0;
+.b1{
+    background-color: aqua;
+    height: 75px;
+    width: 150px;
+    border-radius: 20px;
+    text-align-last: center;
+    align-content: center;
+}
+.b2{
+    background-color: bisque;
+    height: 100px;
+    width: 250px;
+    border-radius: 15px;
+    text-align-last: center;
+    align-content: center;
+}
+.b3{
+    background-color: yellow;
+    height: 125px;
+    width: 190px;
+    border-radius: 15px;
+    text-align-last: center;
+    align-content: center;
 }
 
-h1 {
-    color: #333;
-}
-
-p {
-    color: #f81c1c;
+section{
+    display: flex;
+    align-items: center;
 }
