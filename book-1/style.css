@@ -28,3 +28,29 @@ section{
     display: flex;
     align-items: center;
 }
+
+#nana{
+    /* Valeurs globales */
+    transform: inherit;
+    text-align-last: center;
+    align-content: center;
+    background-color: aquamarine;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    border: solid red;
+}
+@keyframes descente{
+    from{margin-top: 50px;}
+    to{margin-top: 200px;}
+}
+#mama{
+    text-align-last: center;
+    align-content: center;
+    background-color: red;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    animation: descente 5s;
+}
