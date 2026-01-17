@@ -1,0 +1,32 @@
+div{
+    border: dashed;
+    padding: 10px;
+    margin: 5px;
+}
+p{
+    border: solid;
+    padding: 15px;
+}
+.chapeau{
+    background-color: aqua;
+}
+#cecile, #philipe{
+    border-radius: 15px;
+    box-shadow: 5px 5px #d8d8d8;
+    width: 50px
+}
+#trance{
+  width: 300px;
+  height: 200px;
+  background-color: bisque;
+}
+#cecilio{
+    float: left;
+    border-radius: 15px;
+}
+#cecile {
+  float: right;
+  width: 50px;
+  height: 50px;
+}
+
